@@ -57,8 +57,7 @@ export default function ZoomCityLanding() {
     { icon: "⚡", label: "3× Faster Performance" },
     { icon: "🗺️", label: "Smart City Guides" },
     { icon: "🎯", label: "Personalized Recommendations" },
-    { icon: "📍", label: "Offline Mode" },
-    { icon: "🌍", label: "50+ New Destinations" },
+    { icon: "🌍", label: "New Destinations" },
   ]
 
   return (
